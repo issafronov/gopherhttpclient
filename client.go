@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func main() {
-	fmt.Println("hi")
+func Hi() {
+	fmt.Println("Hi")
 }
